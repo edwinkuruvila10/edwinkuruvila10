@@ -5,7 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/edwin)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/edwin/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Linkedin](https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edwin//)&nbsp;&nbsp;&nbsp;&nbsp;
-[![gitlab](https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/edwin)
 
  
 </div>  
@@ -44,7 +43,6 @@ Eager to learn more about the simulation of natural intelligence in machines and
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
     </td>
-  </tr>
   <tr>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
@@ -54,10 +52,7 @@ Eager to learn more about the simulation of natural intelligence in machines and
         <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
       <br>Github
     </td>
-    <td align="center"  width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
+    
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
@@ -66,20 +61,7 @@ Eager to learn more about the simulation of natural intelligence in machines and
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
   </tr>
- <tr>
-      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" width="48" height="48" alt="Dart" />
-      <br>Dart
-    </td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>MySQL
@@ -102,7 +84,7 @@ Eager to learn more about the simulation of natural intelligence in machines and
   <summary>Activity Graph 📈</summary>
   <br/>
  
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="edwin's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=edwinkuruvila10&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
+<a href="https://github.com/edwinkuruvila10-readme-activity-graph"><img alt="edwin's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=edwinkuruvila10&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
 </details>
 
 ## GitHub Profile Trophy 🏆
