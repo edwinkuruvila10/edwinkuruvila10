@@ -1,29 +1,72 @@
-### Hi there 👋, My Name is Edwin Kuruvila
-#### Full Stack Developer
-![Full Stack Developer](https://img.freepik.com/free-vector/web-development-concept-with-programmer-ar_107791-17049.jpg?w=1060&t=st=1678613842~exp=1678614442~hmac=76d532b0cf201e795b350650c3e03ea78d6a6675d175cd022e12e70df2a95849)
+<h1 align="center">Hi 👋, I'm Edwin Kuruvila</h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
-Eager to learn more about the simulation of natural intelligence in machines and mimic the action of humans🤖
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edwinkuruvila10&label=Profile%20views&color=0e75b6&style=flat" alt="edwinkuruvila10" /> </p>
 
-Skills: Python / REACT JS / JavaScript / HTML / CSS
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwinkuruvila10" alt="edwinkuruvila10" /></a> </p>
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Artificial intelligence and Machine Learning  
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Python 
-- 📫 How to reach me: edwinkuruvila089@gmail.com 
+- 🌱 I’m currently learning **Artificial intelligence and Machine Learning**
 
+- 💬 Ask me about **Python**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/edwinkuruvila10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/edwinkuruvila/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/edwin_kuruvila/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Edwin_Kuruvila)  
+- 📫 How to reach me **edwinkuruvila089@gmail.com**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@edwin_kuruvilaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@edwin_kuruvilaa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/edwinkuruvila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/edwinkuruvila" height="30" width="40" /></a>
+<a href="https://instagram.com/edwin_kuruvila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edwin_kuruvila" height="30" width="40" /></a>
+</p>
+> Tools and technologies that I have worked with and am interested in
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinkuruvila10)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+  </tr>
+  <>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+      <br>Github
+    </td>
+  
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=edwinkuruvila10&show_icons=true)  
+ </tr>
+</table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=edwinkuruvila10)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinkuruvila10&show_icons=true&locale=en&layout=compact" alt="edwinkuruvila10" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/edwinkuruvila10)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwinkuruvila10&show_icons=true&locale=en" alt="edwinkuruvila10" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=edwinkuruvila10)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinkuruvila10&" alt="edwinkuruvila10" /></p>
+
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
