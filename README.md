@@ -7,10 +7,13 @@ As a pre-final year student pursuing Computer Science and Engineering  with Spec
 
 💻 **Things I love**
 
--Eager to learn more about the simulation of natural intelligence in machines and mimic the action of humans🤖.
--Data Science
--front-end Development
--Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Eager to learn more about the simulation of natural intelligence in machines and mimic the action of humans🤖.
+
+Data Science
+
+front-end Development
+
+Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### 🛠**Tech Stack**
 
