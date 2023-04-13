@@ -1,30 +1,68 @@
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
-<h1 align="center">Hi 👋, I'm Edwin Kuruvila</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077//screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edwinkuruvila10&label=Profile%20views&color=0e75b6&style=flat" alt="edwinkuruvila10" /> </p>
+### Hi there, I am Edwin Kuruvila 👋
+As a pre-final year student pursuing Computer Science and Engineering  with Specialization in Artificial Intelligence and Machine Learning Vellore Institute of Technology,Bhopal, I am Passionate about leveraging my knowledge and skill to drive innovation in the field od AI and Machine Learnig.
 
-- 🌱 I’m currently learning **Artificial intelligence and Machine Learning**
 
-- 💬 Ask me about **Python**
+💻 **Things I love**
+Eager to learn more about the simulation of natural intelligence in machines and mimic the action of humans🤖.
+Data Science
+front-end Development
+Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 📫 How to reach me **edwinkuruvila089@gmail.com**
+### 🛠**Tech Stack**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@edwin_kuruvilaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@edwin_kuruvilaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/edwinkuruvila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/edwinkuruvila" height="30" width="40" /></a>
-<a href="https://instagram.com/edwin_kuruvila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edwin_kuruvila" height="30" width="40" /></a>
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
+
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=JAVA)
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="edwinkuruvila10 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinkuruvila10&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwinkuruvila10" alt="edwinkuruvila10" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinkuruvila10&show_icons=true&locale=en&layout=compact" alt="edwinkuruvila10" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwinkuruvila10&show_icons=true&locale=en" alt="edwinkuruvila10" /></p>
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-112%15hrs%2029%30mins-blue)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinkuruvila10&" alt="edwinkuruvila10" /></p>
+
+## 📊 Github stats
+
+  
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="edwinkuruvila10 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=edwinkuruvila10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="edwinkuruvila10 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinkuruvila10&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+---
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Edwinkuruvila10 Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=edwinkuruvila10&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+ <h2 align="center">📫 Reach out to me on</h2>
+  <p align="center">
+    <a target="_blank"href="https://www.linkedin.com/in/edwinkuruvila"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://twitter.com/Edwin_Kuruvilaa"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:edwinkuruvila089@gmail.com?subject=Hey%20Edwin,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+</p>
+
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
