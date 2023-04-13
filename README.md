@@ -1,4 +1,4 @@
-<img align="right" src="giphy.gif" alt="Coder GIF" width="350" height="300">
+<img align="right" src="giphyy.gif" alt="Coder GIF" width="350" height="300">
 
 
 ### Hi there, I am Edwin Kuruvila 👋
