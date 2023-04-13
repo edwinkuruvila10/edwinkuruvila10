@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="350" height="200">
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="350" height="350">
 
 
 ### Hi there, I am Edwin Kuruvila 👋
