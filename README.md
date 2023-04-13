@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="350" height="200">
 
 
 ### Hi there, I am Edwin Kuruvila 👋
@@ -6,6 +6,7 @@ As a pre-final year student pursuing Computer Science and Engineering  with Spec
 
 
 💻 **Things I love**
+
 Eager to learn more about the simulation of natural intelligence in machines and mimic the action of humans🤖.
 Data Science
 front-end Development
