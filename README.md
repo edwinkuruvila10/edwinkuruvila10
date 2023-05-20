@@ -13,6 +13,8 @@ Data Science
 
 front-end Development
 
+Deep Learning
+
 Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### 🛠**Tech Stack**
