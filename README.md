@@ -44,9 +44,6 @@ Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" wid
 
 ---
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%15hrs%2029%30mins-blue)
-
 
 ## 📊 Github stats
 
@@ -60,6 +57,8 @@ Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" wid
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=edwinkuruvila10&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+
 
  <h2 align="center">📫 Reach out to me on</h2>
   <p align="center">
@@ -70,5 +69,3 @@ Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" wid
 
 </p>
 
-
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
