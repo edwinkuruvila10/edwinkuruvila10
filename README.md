@@ -58,7 +58,7 @@ Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" wid
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ---
-<a href="https://github.com/edwinkuruvila10"><img alt="Edwinkuruvila10 Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=edwinkuruvila10&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=edwinkuruvila10&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
  <h2 align="center">📫 Reach out to me on</h2>
