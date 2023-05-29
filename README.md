@@ -55,7 +55,7 @@ Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" wid
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level!!!.
 
 ---
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edwinkuruvila10&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edwinkuruvila10&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
