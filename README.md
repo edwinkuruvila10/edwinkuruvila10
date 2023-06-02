@@ -52,7 +52,7 @@ Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" wid
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="edwinkuruvila10 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=edwinkuruvila10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width=50% height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="edwinkuruvila10 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinkuruvila10&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"  height="192px"/></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level!!!.
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level!!!!.
 
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edwinkuruvila10&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -65,7 +65,6 @@ Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" wid
     <a target="_blank"href="https://www.linkedin.com/in/edwinkuruvila"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a target="_blank"href="https://twitter.com/Edwin_Kuruvilaa"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:edwinkuruvila089@gmail.com?subject=Hey%20Edwin,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
 
 </p>
 
