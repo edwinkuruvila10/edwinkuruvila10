@@ -59,7 +59,7 @@ Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" wid
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
-![Snake animation](https://github.com/edwinkuruvila10/edwinkuruvila10/blob/output/github-contribution-grid-snake.svg)
+
 
 
  <h2 align="center">📫 Reach out to me on</h2>
@@ -69,4 +69,6 @@ Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" wid
     <a href="mailto:edwinkuruvila089@gmail.com?subject=Hey%20Edwin,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
+
+![snake gif](https://github.com/edwinkuruvila10/edwinkuruvila10/blob/output/github-contribution-grid-snake.gif)
 
