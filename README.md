@@ -59,6 +59,9 @@ Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" wid
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
+![snake gif](https://github.com/edwinkuruvila10/edwinkuruvila10/blob/output/github-contribution-grid-snake.gif)
+
+
 
 
 
@@ -70,5 +73,4 @@ Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" wid
 
 </p>
 
-![snake gif](https://github.com/edwinkuruvila10/edwinkuruvila10/blob/output/github-contribution-grid-snake.gif)
 
