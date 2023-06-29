@@ -45,7 +45,7 @@ Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" wid
 ---
 
 
-## 📊 Github stats
+## 📊 - Github stats
 
   
   <br/>
