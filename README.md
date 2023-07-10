@@ -2,10 +2,10 @@
 
 
 ### Hi there, I am Edwin Kuruvila 👋
-As a pre-final year student pursuing Computer Science and Engineering  with Specialization in Artificial Intelligence and Machine Learning Vellore Institute of Technology,Bhopal, I am Passionate about leveraging my knowledge and skill to drive innovation in the field od AI and Machine Learnig.
+As a pre-final year student pursuing Computer Science and Engineering  with Specialization in Artificial Intelligence and Machine Learning Vellore Institute of Technology,Bhopal, I am Passionate about leveraging my knowledge and skill to drive innovation in the field of AI and Machine Learnig.
 
 
- **Things I love** 💻
+**Things I love** 💻
 
 Eager to learn more about the simulation of natural intelligence in machines and mimic the action of humans🤖.
 
