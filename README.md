@@ -35,12 +35,17 @@ Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" wid
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/edwinkuruvila10/">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="edwinkuruvila10 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinkuruvila10&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+<!--STREAKS and STATS-->
+  <p align="center">
+ <img alt="Edwin's Github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinkuruvila10&theme=dark&card_width=301">
+  <img alt="Edwin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=edwinkuruvila10&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=301">
+  <a href="https://github.com/edwinkuruvila10"><img src = "https://github-profile-trophy.vercel.app/?username=edwinkuruvila10"></a>
 </p>
+  
+    
+ <img alt="Edwin's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=edwinkuruvila10&bg_color=000001&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=false">
+
+  </p>
 
 ---
 
