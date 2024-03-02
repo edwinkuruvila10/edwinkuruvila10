@@ -32,8 +32,6 @@ Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" wid
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=JAVA)
 
-username=edwinkuruvila10&bg_color=000001&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=false">
-
   </p>
 
 ---
