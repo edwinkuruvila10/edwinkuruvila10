@@ -32,42 +32,11 @@ Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" wid
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=JAVA)
 
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<!--STREAKS and STATS-->
-  <p align="center">
- <img alt="Edwin's Github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinkuruvila10&theme=dark&card_width=301">
-  <img alt="Edwin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=edwinkuruvila10&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=301">
-  <a href="https://github.com/edwinkuruvila10"><img src = "https://github-profile-trophy.vercel.app/?username=edwinkuruvila10"></a>
-</p>
-  
-    
- <img alt="Edwin's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=edwinkuruvila10&bg_color=000001&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=false">
+username=edwinkuruvila10&bg_color=000001&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=false">
 
   </p>
 
 ---
-
-
-## 📊 - Github stats
-
-  
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="edwinkuruvila10 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=edwinkuruvila10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width=50% height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="edwinkuruvila10 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinkuruvila10&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook"  height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level!!!!!!!.
-
----
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edwinkuruvila10&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
-
-![snake gif](https://github.com/edwinkuruvila10/edwinkuruvila10/blob/output/github-contribution-grid-snake.gif)
-
-
-
 
 
  <h2 align="center">📫 Reach out to me on</h2>
